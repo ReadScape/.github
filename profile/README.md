@@ -53,11 +53,15 @@ ReadScape is a reading platform that not only highly promote the interest in rea
   - 
 
 ### Team Member 5
-- **Name:** 
-- **Bangkit ID**: 
-- **Role:** 
+- **Name:** Rizki Maula
+- **Bangkit ID**: M318BSY0216
+- **Role:** Machine Learning
 - **Contributions:**
-  - 
+  - Create a search feature using a content-based fanfiction recommendation system.
+  - Create a post recommendation system feature based on the most popular posts and user tags.
+  - Implement the use of the string, re, numpy, pandas, request, and sickit-learn libraries.
+  - Active in providing opinions, suggestions, and discussions during the product-based capstone creation process.
+  - Active in collaborating with other members.
 
 ### Team Member 6
 
