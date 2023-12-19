@@ -71,8 +71,10 @@ ReadScape is a reading platform that not only highly promote the interest in rea
   - Active Participant on contributing ideas, team tasks, meetings, et cetera
 
 ### Team Member 7
-- **Name:** 
-- **Bangkit ID**: 
-- **Role:** 
+- **Name:** Rifqi Fahrezi
+- **Bangkit ID**: a318bsy2898
+- **Role:** Mobile Developer
 - **Contributions:**
-  - 
+  - Creating application interfaces using figma
+  - Actively contribute ideas for projects
+  - Implement the user interface that has been created in figma
