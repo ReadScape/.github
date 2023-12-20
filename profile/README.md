@@ -32,10 +32,12 @@ ReadScape is a reading platform that not only highly promote the interest in rea
   - 
 
 ### Team Member 2
-- **Name:** 
-- **Bangkit ID**: 
-- **Role:** 
+- **Name:** Gilang Bayu Saputra
+- **Bangkit ID**: C318BSY3981
+- **Role:** Backend Cloud Computing
 - **Contributions:**
+  - Implemented Machine Learning Based Similarity checker on Local Python Environment and passing the results to a NodeJS Backend Server.
+  - Implemented Content-based Search Feature Machine Learning Made with currently one query parameter.
   - 
 
 ### Team Member 3
