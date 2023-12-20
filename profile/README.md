@@ -46,11 +46,13 @@ ReadScape is a reading platform that not only highly promote the interest in rea
   - 
 
 ### Team Member 4
-- **Name:** 
-- **Bangkit ID**: 
-- **Role:** 
+- **Name:** Diva Putra Almeyda
+- **Bangkit ID**: M329BSY0290
+- **Role:** Machine Learning
 - **Contributions:**
-  - 
+  - Created a fanfiction recommendation system based on 'most popular' fanfiction
+  - Created a simple collaborative filtering model using Neural Network for the fanfiction recommendation feature
+  - Active collaborating with others on team meeting, giving opinions & suggestions
 
 ### Team Member 5
 - **Name:** Rizki Maula
