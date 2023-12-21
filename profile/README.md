@@ -21,6 +21,7 @@ ReadScape is a reading platform that not only highly promote the interest in rea
 - `Social Feed`
 - `Reading Fictions`
 - `Upload Story`
+- `Plagiarism Detector`
 
 ## Team Contributions
 
