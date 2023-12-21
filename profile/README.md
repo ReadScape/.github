@@ -12,15 +12,15 @@ CC: Gusti RA, Gilang BS MD: M. Irham, Rifqi N ML: Rizki M, F Kayla, Diva A
 -->
 **Overview**
 
-ReadScape is a reading platform that not only highly promote the interest in reading, but also encourages the creativity of all passionate writers across Indonesia.
-(tolong dibenarkan overviewnya)
+ReadScape is a reading platform that not only highly promote the interest in reading, but also encourages the creativity of all passionate writers across Indonesia. With ReadScape, you can read and share as many fictions as you can and create your own social network. 
 
-## Features
+## Main Features
 
 - `Login`
 - `Homepage`
-- `Feed`
-- `Lanjutkan please`
+- `Social Feed`
+- `Reading Fictions`
+- `Upload Story`
 
 ## Team Contributions
 
