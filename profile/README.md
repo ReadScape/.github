@@ -42,11 +42,12 @@ ReadScape is a reading platform that not only highly promote the interest in rea
   - 
 
 ### Team Member 3
-- **Name:** 
-- **Bangkit ID**: 
-- **Role:** 
-- **Contributions:**
-  - 
+- **Name:** Gusti Rizky Aina
+- **Bangkit ID**: C010BSX3163
+- **Role:** Backend Cloud Computing
+- **Contributions:** 
+  - Implemented Following/Followers, post system, ratings for post and fiction
+  - Written most of minutes of meeting during team meetings and discussion
 
 ### Team Member 4
 - **Name:** Diva Putra Almeyda
