@@ -37,9 +37,11 @@ ReadScape is a reading platform that not only highly promote the interest in rea
 - **Bangkit ID**: C318BSY3981
 - **Role:** Backend Cloud Computing
 - **Contributions:**
-  - Implemented Machine Learning Based Similarity checker on Local Python Environment and passing the results to a NodeJS Backend Server.
+  - Implemented Machine Learning Based Plagiarism checker on Local Python Environment and passing the results to a NodeJS Backend Server.
   - Implemented Content-based Search Feature Machine Learning Made with currently one query parameter.
-  - 
+  - Deployed ML FYP Recommendation Model
+  - Implemented PDF Pre-processor for Plagiarism Checker Input
+  - Planned, and Executed Cloud Architecture.
 
 ### Team Member 3
 - **Name:** Gusti Rizky Aina
