@@ -26,9 +26,9 @@ ReadScape is a reading platform that not only highly promote the interest in rea
 ## Team Contributions
 
 ### Team Member 1
-- **Name:** 
-- **Bangkit ID**: 
-- **Role:** 
+- **Name:** Muhamad Irhamni
+- **Bangkit ID**: A013BSY1998
+- **Role:** Mobile Developer
 - **Contributions:**
   - 
 
