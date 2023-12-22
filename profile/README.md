@@ -30,7 +30,8 @@ ReadScape is a reading platform that not only highly promote the interest in rea
 - **Bangkit ID**: A013BSY1998
 - **Role:** Mobile Developer
 - **Contributions:**
-  - 
+  - Implementing Back-End (Parsing API, create database lokal, create ViewModel, create Repository)
+  - Contribute in giving ideas, team meeting, etc
 
 ### Team Member 2
 - **Name:** Gilang Bayu Saputra
@@ -50,6 +51,7 @@ ReadScape is a reading platform that not only highly promote the interest in rea
 - **Contributions:** 
   - Implemented Following/Followers, post system, ratings for post and fiction
   - Written most of minutes of meeting during team meetings and discussion
+  - Contributing in PPT, video design, idea, etc
 
 ### Team Member 4
 - **Name:** Diva Putra Almeyda
